@@ -43,6 +43,8 @@ body{
 }
 /* Extra small devices (phones, less than 600px) */
 @media (max-width: 700px) {
+    .header{
+        height:80% !important;}
     .navbar{
         margin: 10px 10px ;
         min-width: 170px;
@@ -59,10 +61,12 @@ body{
         font-weight: 500 !important;
     }
     .gradient-btn {
+        margin:10px;
         padding: 1rem 1rem !important;
         font-size: 1rem !important;
     }
     .home{
+        margin-top:10% !important;
         align-items: right !important;
         gap: 1rem !important;
     }
