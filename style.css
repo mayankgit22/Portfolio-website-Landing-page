@@ -61,9 +61,10 @@ body{
         font-weight: 500 !important;
     }
     .gradient-btn {
-        margin-top:15px !important;
-        padding: 1rem 1rem !important;
-        font-size: 1rem !important;
+       
+        margin-top:20px !important;
+        padding: .71rem .71rem !important;
+        font-size: .81rem !important;
     }
     .home{
         margin-top:20% !important;
