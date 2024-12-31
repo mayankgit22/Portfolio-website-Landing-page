@@ -61,12 +61,12 @@ body{
         font-weight: 500 !important;
     }
     .gradient-btn {
-        margin:10px;
+        margin:10px !important;
         padding: 1rem 1rem !important;
         font-size: 1rem !important;
     }
     .home{
-        margin-top:9% !important;
+        margin-top:15% !important;
         align-items: right !important;
         gap: 1rem !important;
     }
