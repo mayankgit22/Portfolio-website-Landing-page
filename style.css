@@ -62,7 +62,7 @@ body{
     }
     .gradient-btn {
        
-        margin-right:20px !important;
+        margin:-10px !important;
         padding: .71rem .71rem !important;
         font-size: .81rem !important;
     }
