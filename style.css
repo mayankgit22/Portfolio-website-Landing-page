@@ -46,7 +46,7 @@ body{
     .header{
         height:8% !important;}
     .navbar{
-        margin: 10px 10px !important;
+        margin: 10px 10px ;
         min-width: 170px ;
     }
     .navbar a {
@@ -61,7 +61,7 @@ body{
         font-weight: 500 !important;
     }
     .gradient-btn {
-        margin:10px !important;
+        margin:5px !important;
         padding: 1rem 1rem !important;
         font-size: 1rem !important;
     }
